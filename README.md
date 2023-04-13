@@ -9,10 +9,11 @@ Progetto per PIC16F1827
 
 # Video progetto
 
- #### Qui si può trovare il video del funzionamento del progetto:
+ ### Qui si può trovare il video del funzionamento del progetto:
+  ##### Clicca l'immagine per visualizzarlo.
  
+[![Watch the video](https://i.ibb.co/mXstgmp/17521581-d1c1-4643-88f4-74bad9b76bfc.jpg)](https://streamable.com/e/swcg2g?autoplay=1&nocontrols=1)
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:55.556%;"><iframe src="https://streamable.com/e/swcg2g?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
     
 
  
